@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg);
+    background-size: 2000px;
+
+    font-family: 'Fira Sans', sans-serif;
+}
+    
+    
+
+/* Home Page */
+
+.home-pic{
+
+    position: absolute;
+    top:200px;
+    left:620px;
+}
+
+.add-btn{
+    position: absolute;
+    top:500px;
+    left:620px;
+    font-size: 27px;
+}
+
+.navbar-item-list{
+    
+    margin-left: 800px;
+}
+
+.navbar-item-list li{
+    padding-right: 70px;
+    font-size: 1.2rem;
+}
+
+.project-navbar-tittle{
+    position: absolute;
+    padding-left: 100px;
+    font-size: 1.8rem;
+}
+
+.bg-image{
+    background-size: 100px;
+}
+
+.navbar-bg{
+    background-image: url(https://plchldr.co/i/336x280?&bg=f3c623&text=);
+}
+
+/* Home Page */
