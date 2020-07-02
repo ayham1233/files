@@ -48,3 +48,14 @@ body{
 }
 
 /* Home Page */
+
+/* Add page */
+
+.add-page-containt{
+    position: relative;
+    top:200px;
+    left: 200px;
+}
+
+
+/* Add page */
