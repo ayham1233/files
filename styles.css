@@ -49,13 +49,52 @@ body{
 
 /* Home Page */
 
-/* Add page */
+
+/* --------------------------------------------------------- */
+
+
+/* Add page */  
 
 .add-page-containt{
-    position: relative;
-    top:200px;
-    left: 200px;
+    width: 1000px;
+    padding : 70px 0 0 100px;
+    font-family: 'Roboto Slab', serif;
 }
 
+.project-about{
+    padding-top: 100px;
+}
 
-/* Add page */
+.add-addPage{
+    margin-top: 50px;
+    font-size: 1.5rem;
+    padding: 10px 30px 10px 30px;
+    position: relative;
+    left: 400px;
+}
+
+.project-name-label{
+    color: #f3c623;
+    font-family: 'MuseoModerno', cursive;
+    font-size: 1.4rem;
+}
+.project-about-label{
+     color: #f3c623;
+     font-family: 'MuseoModerno', cursive;
+     font-size: 1.4rem;
+    }
+.add-page-containt textarea{
+    background-image: url(https://www.htmlcsscolor.com/preview/gallery/EEEEEE.png);
+
+}
+
+.project-name-containt{
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.project-about-containt{
+    font-size: 1.2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+/* Add page */ 
